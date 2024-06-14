@@ -1,4 +1,7 @@
-#cadre{
+*{
+    font-family: 'Shadows Into Light';
+}
+.cadre{
     background-color: #29347B;
     color: #ffffff;
 }
